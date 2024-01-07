@@ -1,4 +1,7 @@
-# <div style="display: flex; align-items: center; gap: 10px; justify-content:center"><img src="logo.webp" alt="DWC HueCraft" height="32px"> <a href="https://hyyan.github.io/huecraft/">DWC HueCraft</a></div>
+<p align="center">
+  <img src="logo.webp" alt="DWC HueCraft" height="100px"><br>
+  <h1 align="center">DWC HueCraft</h1>
+</p>
 
 <p align="center">
   <img src="cover.png" alt="Cover Image" />
