@@ -9,7 +9,7 @@
 
 **DWC HueCraft** is the ultimate color palette tool for DWC applications. Seamlessly generate a professional palette by adding your primary brand color, uploading your logo, or let the tool inspire you with a random, [WCAG-compliant](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) color scheme. This versatile tool caters to your specific design needs or sparks creativity with its randomized palettes. Perfect for DWC applications, easily export your custom or randomly generated color schemes to CSS in seconds.
 
-## 🌈 Features
+## Features
 
 - 🎨 **Custom Palette Generation**: Input your primary brand color or upload your company logo to generate a cohesive and professional color palette tailored to your brand.
 - 🖼️ **Logo-Based Palette Creation**: Utilize your logo to create a color scheme that complements your brand's visual identity.
